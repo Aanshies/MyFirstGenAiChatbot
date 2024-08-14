@@ -35,7 +35,7 @@ GENAI Chatbot is an interactive AI chatbot built using the Gemini API. It levera
 ![Screenshot 2024-08-14 221532](https://github.com/user-attachments/assets/ad85c969-22ab-4956-a93b-8817cb47a65b)
 
 * Chatbot in Action
-![Screenshot 2024-08-14 223718](https://github.com/user-attachments/assets/4d1a482b-13fb-425c-b6dc-808a656bfb9c)
+![Screenshot 2024-08-14 224847](https://github.com/user-attachments/assets/eab6cf06-68e0-48e0-9e61-442268123275)
 
 
 ## Contributing
